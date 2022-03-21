@@ -3,7 +3,7 @@ Hola 👋 Soy Jose!!
 Bienvenidos a mi github... 
 
 Estudie tecnologia en desarrollo de software en la Fundacion Universitaria Tecnologico Comfenalco, alli adquiri muchos conocimientos y habilidades.
-Ahora estoy preparandome como Desarrollador Full Stack Web en Henry, donde he aprendido mucho sobre el desarrollo de aplicaciones utiliando las tecnologias y librerias como JavaScript, Css, Html, React, Redux, Node.js, PostgresSql. Desarrollando mis habilidades resolviendo problemas y creando proyectos indivduales y grupales desde cero.
+Ahora estoy preparandome como Desarrollador Full Stack Web en Henry, donde he aprendido mucho sobre el desarrollo de aplicaciones utilizando las tecnologias y librerias como JavaScript, Css, Html, React, Redux, Node.js, PostgresSql. Desarrollando mis habilidades resolviendo problemas y creando proyectos indivduales y grupales desde cero.
 
 
 
