@@ -1,8 +1,7 @@
 # Hola, Soy Jose👋
 
  
-Estudie tecnologia en desarrollo de software en la Fundacion Universitaria Tecnologico Comfenalco.                                
-Ahora estoy preparandome como Desarrollador Full Stack Web en Henry, donde estoy aprendido mucho sobre el desarrollo de aplicaciones utilizando las tecnologias y librerias como; JavaScript, Css, Html, React, Redux, Node.js, PostgresSql. Desarrollando mis habilidades resolviendo problemas y creando proyectos indivduales y grupales desde cero.
+Estudié tecnología en desarrollo de software en la Fundación Universitaria Tecnológico Comfenalco. Además, me especialicé en Desarrollo Full Stack Web en Henry, donde adquirí amplios conocimientos en el desarrollo de aplicaciones utilizando tecnologías y bibliotecas como JavaScript, CSS, HTML, React, Redux, Node.js y PostgresSQL. He desarrollado habilidades sólidas en la resolución de problemas y la creación de proyectos individuales y grupales desde cero.
 
     
    <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Jose Puello LinkedIn Profile" width="440px" align="right">     
