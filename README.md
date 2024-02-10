@@ -48,36 +48,25 @@ Estudié tecnología en desarrollo de software en la Fundación Universitaria Te
   ******
 ### - :computer: Projects
 
-#### Proyecto Individual - VideoGames
+#### Proyecto Individual - ECOMMERCE
 
-Desarrollo de una SPA (single page aplication)
-Tecnologías usadas React, Redux, CSS, NodeJs,
-Express, PostgreSQL, Sequelize, GitHub 
+# ShopAll - Tu Marketplace Eco-Amigable 🌱🛍️
 
-• Front End
-Se utilizó React para maquetar los componentes y
-Redux para manejar estados globales.
-Todos los componentes fueron estilizados utilizando
-CSS puro (sin librerías de terceros)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/tuusuario/shopall)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-success.svg)](https://github.com/tuusuario/shopall)
+[![Eco-Friendly](https://img.shields.io/badge/Eco--Friendly-%E2%9C%94%EF%B8%8F-brightgreen.svg)](https://www.shopall.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/tuusuario/shopall/pulls)
 
-• Back End
-La SPA consume un api externa
-(https://api.rawg.io/api/games/) agregandole
-funcionalidades a travéz de un Back End desarrollado
-en NodeJs utilizando la libreria Express para manejar
-las peticiones HTTP.
+¡Bienvenido a ShopAll! Nuestra plataforma de comercio electrónico está comprometida con la oferta de productos eco-amigables y sostenibles. Descubre una amplia variedad de productos que ayudarán a reducir tu impacto ambiental.
 
-• DataBase
-Además permite crear datos nuevos y alojarlos en un
-servidor (se pueden crear nuevos game). Para brindar
-este servicio se utilizo PostgreSQL como gestor de
-base de datos y Sequelize como ORM.
-<p align='center'>     
-   <a align='center' href="https://henry-comics.vercel.app/">
-      <img src="https://github.com/JosePuelloCortina/PI-Videogames/blob/main/videogame.png" alt="Henry Comics Repo"   width="50%">  
-    </a>
-</p>
+## Características Destacadas 🌟
 
+- Amplia selección de productos ecológicos.
+- Navegación intuitiva y experiencia de compra optimizada.
+- Carrito de compras con calculadora de huella de carbono integrada.
+- Detalles de sostenibilidad para cada producto.
+- Opciones de pago seguras y respetuosas con el medio ambiente.
 
 <!--
 
